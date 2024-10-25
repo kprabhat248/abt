@@ -19,7 +19,7 @@ This is a React application that allows users to convert queries into Abstract S
 The application communicates with an API hosted at:
 
 ```
-https://ats-server-qau7.onrender.com/api
+https://prabhat-ats.netlify.app
 ```
 
 ## Setup Instructions
